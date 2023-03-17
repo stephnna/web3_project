@@ -55,10 +55,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Implement Authenticated endpoint**
-- **Implement CRUD functionality for hotels model**
-- **Implement CRUD functionality for rooms model**
-- **Implement CRUD functionality for booking model**
+- **Connects to blockchain**
+- **has metamask pairing**
+- **interaction with samrt contract**
+- **This project has a stunning designs**
+- **sending Ethereum through the blockchain network**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
