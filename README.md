@@ -56,10 +56,11 @@
 ### Key Features <a name="key-features"></a>
 
 - **Connects to blockchain**
+- **sends ethereum through the blockchain network**
 - **has metamask pairing**
 - **interaction with samrt contract**
 - **This project has a stunning designs**
-- **sending Ethereum through the blockchain network**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
